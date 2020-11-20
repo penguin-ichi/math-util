@@ -1,0 +1,21 @@
+dir --> enter
+ls --> enter
+ls -la --> enter
+git add *
+git commit -m "add README.md"
+git push
+
+
+
+nếu kho mới máy mới
+	git init
+	git config -glo...
+	{3 câu lệnh}
+kho mới máy cũ đã setup trc
+	git init
+	{3 câu lệnh}
+
+Mỗi ngày khi sửa code ở LOCAL
+	git add *
+	git commit -m"...."
+	git push (cần wifi)
